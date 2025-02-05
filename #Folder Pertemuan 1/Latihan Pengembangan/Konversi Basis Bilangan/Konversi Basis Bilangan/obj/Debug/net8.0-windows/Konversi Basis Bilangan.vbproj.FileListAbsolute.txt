@@ -1,0 +1,17 @@
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\bin\Debug\net8.0-windows\Konversi Basis Bilangan.exe
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\bin\Debug\net8.0-windows\Konversi Basis Bilangan.deps.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\bin\Debug\net8.0-windows\Konversi Basis Bilangan.runtimeconfig.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\bin\Debug\net8.0-windows\Konversi Basis Bilangan.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\bin\Debug\net8.0-windows\Konversi Basis Bilangan.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.Form1.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi Basis Bilangan.vbproj.GenerateResource.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi Basis Bilangan.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi Basis Bilangan.AssemblyInfoInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi Basis Bilangan.AssemblyInfo.vb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi Basis Bilangan.vbproj.CoreCompileInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi Basis Bilangan.sourcelink.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi Basis Bilangan.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\refint\Konversi Basis Bilangan.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi Basis Bilangan.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\Konversi Basis Bilangan.genruntimeconfig.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Pengembangan\Konversi Basis Bilangan\Konversi Basis Bilangan\obj\Debug\net8.0-windows\ref\Konversi Basis Bilangan.dll
