@@ -142,7 +142,7 @@ Partial Class Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(718, 186)
         Controls.Add(txtHeksa)
         Controls.Add(txtDesimal)
         Controls.Add(txtOktal)
@@ -156,7 +156,7 @@ Partial Class Form1
         Controls.Add(txtInput)
         Controls.Add(lblInputDesimal)
         Name = "Form1"
-        Text = "Form1"
+        Text = "Konversi Bilangan"
         ResumeLayout(False)
         PerformLayout()
     End Sub

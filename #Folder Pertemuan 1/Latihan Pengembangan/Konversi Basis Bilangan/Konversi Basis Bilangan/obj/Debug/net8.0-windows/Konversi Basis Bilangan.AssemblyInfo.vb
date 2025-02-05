@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Konversi Basis Bilangan"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28f963ad918802139cb9d49492b7af4cac0a18ae"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+713865249f480d28548d81507330095fdfa346f8"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Konversi Basis Bilangan"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Konversi Basis Bilangan"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
