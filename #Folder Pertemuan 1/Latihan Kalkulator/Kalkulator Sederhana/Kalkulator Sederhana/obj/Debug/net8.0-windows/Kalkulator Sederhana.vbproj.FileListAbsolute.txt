@@ -1,0 +1,16 @@
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.exe
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.deps.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.runtimeconfig.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.Form1.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.vbproj.GenerateResource.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.AssemblyInfoInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.AssemblyInfo.vb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.vbproj.CoreCompileInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\refint\Kalkulator Sederhana.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.genruntimeconfig.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 1\Latihan Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\ref\Kalkulator Sederhana.dll

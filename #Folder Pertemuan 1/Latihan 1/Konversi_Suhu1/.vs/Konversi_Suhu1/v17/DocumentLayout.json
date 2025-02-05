@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 1\\Latihan 1\\Konversi_Suhu1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F958B652-94BE-4E11-8121-4B4050E215C1}|Konversi_Suhu1\\Konversi_Suhu1.vbproj|f:\\progdes\\pemrograman_desktop\\#folder pertemuan 1\\latihan 1\\konversi_suhu1\\konversi_suhu1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F958B652-94BE-4E11-8121-4B4050E215C1}|Konversi_Suhu1\\Konversi_Suhu1.vbproj|solutionrelative:konversi_suhu1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F958B652-94BE-4E11-8121-4B4050E215C1}|Konversi_Suhu1\\Konversi_Suhu1.vbproj|f:\\progdes\\pemrograman_desktop\\#folder pertemuan 1\\latihan 1\\konversi_suhu1\\konversi_suhu1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F958B652-94BE-4E11-8121-4B4050E215C1}|Konversi_Suhu1\\Konversi_Suhu1.vbproj|solutionrelative:konversi_suhu1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 1\\Latihan 1\\Konversi_Suhu1\\Konversi_Suhu1\\Form1.vb",
+              "RelativeDocumentMoniker": "Konversi_Suhu1\\Form1.vb",
+              "ToolTip": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 1\\Latihan 1\\Konversi_Suhu1\\Konversi_Suhu1\\Form1.vb",
+              "RelativeToolTip": "Konversi_Suhu1\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-05T03:54:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 1\\Latihan 1\\Konversi_Suhu1\\Konversi_Suhu1\\Form1.vb",
+              "RelativeDocumentMoniker": "Konversi_Suhu1\\Form1.vb",
+              "ToolTip": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 1\\Latihan 1\\Konversi_Suhu1\\Konversi_Suhu1\\Form1.vb [Design]",
+              "RelativeToolTip": "Konversi_Suhu1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-05T03:43:45.366Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
