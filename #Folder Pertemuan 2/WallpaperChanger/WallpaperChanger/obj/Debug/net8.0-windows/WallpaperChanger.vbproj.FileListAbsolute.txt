@@ -1,0 +1,17 @@
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\bin\Debug\net8.0-windows\WallpaperChanger.exe
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\bin\Debug\net8.0-windows\WallpaperChanger.deps.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\bin\Debug\net8.0-windows\WallpaperChanger.runtimeconfig.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\bin\Debug\net8.0-windows\WallpaperChanger.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\bin\Debug\net8.0-windows\WallpaperChanger.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.Form1.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.vbproj.GenerateResource.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.AssemblyInfoInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.AssemblyInfo.vb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.vbproj.CoreCompileInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.sourcelink.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\refint\WallpaperChanger.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\WallpaperChanger.genruntimeconfig.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 2\WallpaperChanger\WallpaperChanger\obj\Debug\net8.0-windows\ref\WallpaperChanger.dll
