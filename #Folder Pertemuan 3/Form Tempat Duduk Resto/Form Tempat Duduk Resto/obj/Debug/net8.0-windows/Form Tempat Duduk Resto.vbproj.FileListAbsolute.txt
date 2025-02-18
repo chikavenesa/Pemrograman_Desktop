@@ -1,0 +1,18 @@
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\bin\Debug\net8.0-windows\Form Tempat Duduk Resto.exe
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\bin\Debug\net8.0-windows\Form Tempat Duduk Resto.deps.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\bin\Debug\net8.0-windows\Form Tempat Duduk Resto.runtimeconfig.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\bin\Debug\net8.0-windows\Form Tempat Duduk Resto.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\bin\Debug\net8.0-windows\Form Tempat Duduk Resto.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form_Tempat_Duduk_Resto.Form1.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form_Tempat_Duduk_Resto.Resources.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form Tempat Duduk Resto.vbproj.GenerateResource.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form Tempat Duduk Resto.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form Tempat Duduk Resto.AssemblyInfoInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form Tempat Duduk Resto.AssemblyInfo.vb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form Tempat Duduk Resto.vbproj.CoreCompileInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form Tempat Duduk Resto.sourcelink.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form Tempat Duduk Resto.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\refint\Form Tempat Duduk Resto.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form Tempat Duduk Resto.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\Form Tempat Duduk Resto.genruntimeconfig.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 3\Form Tempat Duduk Resto\Form Tempat Duduk Resto\obj\Debug\net8.0-windows\ref\Form Tempat Duduk Resto.dll

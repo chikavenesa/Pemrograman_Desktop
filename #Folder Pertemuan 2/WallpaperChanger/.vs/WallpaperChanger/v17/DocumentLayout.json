@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 2\\WallpaperChanger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41AFEB90-634F-4FAC-8A82-E9ED81259F2C}|WallpaperChanger\\WallpaperChanger.vbproj|f:\\progdes\\pemrograman_desktop\\#folder pertemuan 2\\wallpaperchanger\\wallpaperchanger\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41AFEB90-634F-4FAC-8A82-E9ED81259F2C}|WallpaperChanger\\WallpaperChanger.vbproj|solutionrelative:wallpaperchanger\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AFEB90-634F-4FAC-8A82-E9ED81259F2C}|WallpaperChanger\\WallpaperChanger.vbproj|f:\\progdes\\pemrograman_desktop\\#folder pertemuan 2\\wallpaperchanger\\wallpaperchanger\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41AFEB90-634F-4FAC-8A82-E9ED81259F2C}|WallpaperChanger\\WallpaperChanger.vbproj|solutionrelative:wallpaperchanger\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 2\\WallpaperChanger\\WallpaperChanger\\Form1.vb",
+              "RelativeDocumentMoniker": "WallpaperChanger\\Form1.vb",
+              "ToolTip": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 2\\WallpaperChanger\\WallpaperChanger\\Form1.vb",
+              "RelativeToolTip": "WallpaperChanger\\Form1.vb",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwFoAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-11T03:02:51.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 2\\WallpaperChanger\\WallpaperChanger\\Form1.vb",
+              "RelativeDocumentMoniker": "WallpaperChanger\\Form1.vb",
+              "ToolTip": "F:\\PROGDES\\Pemrograman_Desktop\\#Folder Pertemuan 2\\WallpaperChanger\\WallpaperChanger\\Form1.vb [Design]",
+              "RelativeToolTip": "WallpaperChanger\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-11T02:50:10.106Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
