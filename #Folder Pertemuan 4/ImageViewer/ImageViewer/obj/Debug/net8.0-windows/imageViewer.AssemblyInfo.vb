@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("Form Tempat Duduk Resto"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("ImageViewer"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84f12795c38e1511a20658217d6b98c35e1a8846"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("Form Tempat Duduk Resto"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("Form Tempat Duduk Resto"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("ImageViewer"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("ImageViewer"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 

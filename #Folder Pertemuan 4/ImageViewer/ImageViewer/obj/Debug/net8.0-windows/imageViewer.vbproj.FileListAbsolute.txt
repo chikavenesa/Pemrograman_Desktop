@@ -1,0 +1,58 @@
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\bin\Debug\net8.0-windows\imageViewer.exe
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\bin\Debug\net8.0-windows\imageViewer.deps.json
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\bin\Debug\net8.0-windows\imageViewer.runtimeconfig.json
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\bin\Debug\net8.0-windows\imageViewer.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\bin\Debug\net8.0-windows\imageViewer.pdb
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.Form1.resources
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.vbproj.GenerateResource.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.AssemblyInfoInputs.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.AssemblyInfo.vb
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.vbproj.CoreCompileInputs.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.sourcelink.json
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\refint\imageViewer.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.pdb
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.genruntimeconfig.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\ref\imageViewer.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.vbproj.AssemblyReference.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\bin\Debug\net8.0-windows\gma.Drawing.ImageInfo.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 4\image viewer\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageVie.3DCBCDCE.Up2Date
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\imageViewer\imageViewer\obj\Debug\net8.0-windows\refint\imageViewer.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\imageViewer\imageViewer\obj\Debug\net8.0-windows\imageViewer.pdb
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.vbproj.AssemblyReference.cache
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.dll
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\refint\ImageViewer.dll
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.pdb
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\bin\Debug\net8.0-windows\ImageViewer.exe
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\bin\Debug\net8.0-windows\ImageViewer.deps.json
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\bin\Debug\net8.0-windows\ImageViewer.runtimeconfig.json
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\bin\Debug\net8.0-windows\ImageViewer.dll
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\bin\Debug\net8.0-windows\ImageViewer.pdb
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\bin\Debug\net8.0-windows\gma.Drawing.ImageInfo.dll
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.Form1.resources
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.vbproj.GenerateResource.cache
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfoInputs.cache
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfo.vb
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.vbproj.CoreCompileInputs.cache
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageVie.40288BEE.Up2Date
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.genruntimeconfig.cache
+C:\Users\-A2-\Downloads\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ref\ImageViewer.dll
+F:\titip punya iaaan\New folder\ImageViewer\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.dll
+F:\titip punya iaaan\New folder\ImageViewer\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\refint\ImageViewer.dll
+F:\titip punya iaaan\New folder\ImageViewer\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.pdb
+F:\titip punya iaaan\New folder\ImageViewer\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.Form1.resources
+F:\titip punya iaaan\New folder\ImageViewer\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.vbproj.GenerateResource.cache
+F:\titip punya iaaan\New folder\ImageViewer\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.GeneratedMSBuildEditorConfig.editorconfig
+F:\titip punya iaaan\New folder\ImageViewer\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfoInputs.cache
+F:\titip punya iaaan\New folder\ImageViewer\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfo.vb
+F:\titip punya iaaan\New folder\ImageViewer\ImageViewer\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.vbproj.CoreCompileInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.Form1.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.vbproj.GenerateResource.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfoInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfo.vb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.vbproj.CoreCompileInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\imageViewer\obj\Debug\net8.0-windows\ImageViewer.sourcelink.json
