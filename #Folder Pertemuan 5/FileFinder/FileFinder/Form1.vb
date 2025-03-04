@@ -266,5 +266,28 @@ Path.GetFileNameWithoutExtension(nFile)
         End If
     End Sub
 
+    Private Sub DeleteToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles DeleteToolStripMenuItem.Click
+        If lvFile.SelectedItems.Count > 0 Then
+            Dim filePath As String = lvFile.SelectedItems(0).Tag.ToString()
+            If File.Exists(filePath) Then
+                File.Delete(filePath)
+                GetFiles(Path.GetDirectoryName(filePath))
+            End If
+        End If
 
+    End Sub
+
+    Private Sub RenameToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles RenameToolStripMenuItem.Click
+        If lvFile.SelectedItems.Count > 0 Then
+            Dim filePath As String = lvFile.SelectedItems(0).Tag.ToString()
+            Dim newName As String = InputBox("Insert new name:", "Rename File", Path.GetFileName(filePath))
+            If Not String.IsNullOrEmpty(newName) Then
+                Dim newFilePath As String = Path.Combine(Path.GetDirectoryName(filePath), newName & Path.GetExtension(filePath))
+                File.Move(filePath, newFilePath)
+                lvFile.SelectedItems(0).SubItems(0).Text = newName
+                lvFile.SelectedItems(0).Tag = newFilePath
+            End If
+        End If
+
+    End Sub
 End Class

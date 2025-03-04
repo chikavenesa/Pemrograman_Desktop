@@ -62,6 +62,8 @@ Partial Class Form1
         ColumnHeader6 = New ColumnHeader()
         ColumnHeader7 = New ColumnHeader()
         ColumnHeader8 = New ColumnHeader()
+        DeleteToolStripMenuItem = New ToolStripMenuItem()
+        RenameToolStripMenuItem = New ToolStripMenuItem()
         StatusStrip1.SuspendLayout()
         ContextMenuStrip1.SuspendLayout()
         Panel1.SuspendLayout()
@@ -110,9 +112,9 @@ Partial Class Form1
         ' ContextMenuStrip1
         ' 
         ContextMenuStrip1.ImageScalingSize = New Size(20, 20)
-        ContextMenuStrip1.Items.AddRange(New ToolStripItem() {OpenToolStripMenuItem, OpenFolderToolStripMenuItem, CopyPathToolStripMenuItem, CopyFolderPathToClipboardToolStripMenuItem})
+        ContextMenuStrip1.Items.AddRange(New ToolStripItem() {OpenToolStripMenuItem, OpenFolderToolStripMenuItem, CopyPathToolStripMenuItem, CopyFolderPathToClipboardToolStripMenuItem, DeleteToolStripMenuItem, RenameToolStripMenuItem})
         ContextMenuStrip1.Name = "ContextMenuStrip1"
-        ContextMenuStrip1.Size = New Size(279, 100)
+        ContextMenuStrip1.Size = New Size(279, 176)
         ' 
         ' OpenToolStripMenuItem
         ' 
@@ -363,6 +365,18 @@ Partial Class Form1
         ColumnHeader8.Text = "Full Path"
         ColumnHeader8.Width = 200
         ' 
+        ' DeleteToolStripMenuItem
+        ' 
+        DeleteToolStripMenuItem.Name = "DeleteToolStripMenuItem"
+        DeleteToolStripMenuItem.Size = New Size(278, 24)
+        DeleteToolStripMenuItem.Text = "Delete"
+        ' 
+        ' RenameToolStripMenuItem
+        ' 
+        RenameToolStripMenuItem.Name = "RenameToolStripMenuItem"
+        RenameToolStripMenuItem.Size = New Size(278, 24)
+        RenameToolStripMenuItem.Text = "Rename"
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
@@ -429,5 +443,7 @@ Partial Class Form1
     Friend WithEvents ColumnHeader6 As ColumnHeader
     Friend WithEvents ColumnHeader7 As ColumnHeader
     Friend WithEvents ColumnHeader8 As ColumnHeader
+    Friend WithEvents DeleteToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RenameToolStripMenuItem As ToolStripMenuItem
 
 End Class
