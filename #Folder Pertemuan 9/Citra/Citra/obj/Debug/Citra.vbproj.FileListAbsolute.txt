@@ -1,0 +1,13 @@
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\obj\Debug\Citra.vbproj.AssemblyReference.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\obj\Debug\Citra.frmUtama.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\obj\Debug\Citra.frmHistogram.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\obj\Debug\Citra.Resources.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\obj\Debug\Citra.vbproj.GenerateResource.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\obj\Debug\Citra.vbproj.CoreCompileInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\bin\Debug\Citra.exe.config
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\bin\Debug\Citra.exe
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\bin\Debug\Citra.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\bin\Debug\Citra.xml
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\obj\Debug\Citra.exe
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\obj\Debug\Citra.xml
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 9\Citra\Citra\obj\Debug\Citra.pdb
