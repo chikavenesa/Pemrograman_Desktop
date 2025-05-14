@@ -1,0 +1,12 @@
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\obj\Debug\GambarVektor.vbproj.AssemblyReference.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\obj\Debug\GambarVektor.frmUtama.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\obj\Debug\GambarVektor.Resources.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\obj\Debug\GambarVektor.vbproj.GenerateResource.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\obj\Debug\GambarVektor.vbproj.CoreCompileInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\bin\Debug\GambarVektor.exe.config
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\bin\Debug\GambarVektor.exe
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\bin\Debug\GambarVektor.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\bin\Debug\GambarVektor.xml
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\obj\Debug\GambarVektor.exe
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\obj\Debug\GambarVektor.xml
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 10\GambarVektor\GambarVektor\obj\Debug\GambarVektor.pdb
