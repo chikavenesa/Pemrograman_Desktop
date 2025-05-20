@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Pakman"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b666bb702e9eb6f25fa009f8776d4ae12f7bdba"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d2250d6cc4815a91ce8bab7968066a2d4e49b44"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Pakman"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Pakman"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
