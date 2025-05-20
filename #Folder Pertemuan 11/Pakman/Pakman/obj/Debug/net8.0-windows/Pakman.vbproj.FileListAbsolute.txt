@@ -1,0 +1,17 @@
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.exe
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.deps.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.runtimeconfig.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.Form1.resources
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.GenerateResource.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfoInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfo.vb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.CoreCompileInputs.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.sourcelink.json
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\refint\Pakman.dll
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.pdb
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.genruntimeconfig.cache
+F:\PROGDES\Pemrograman_Desktop\#Folder Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\ref\Pakman.dll
